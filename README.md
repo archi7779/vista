@@ -1,3 +1,1 @@
-gh pages: 
-https://archi7779.github.io/vista
-
+gh pages: https://archi7779.github.io/vista
